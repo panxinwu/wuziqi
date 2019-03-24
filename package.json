@@ -7,8 +7,9 @@
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
     "wuziqi-components-board": "^1.0.0",
-    "wuziqi-components-game": "^1.0.0",
-    "wuziqi-components-step": "^1.0.1"
+    "wuziqi-components-game": "^1.0.2",
+    "wuziqi-components-step": "^1.0.2",
+    "wuziqi-utils": "^1.0.2"
   },
   "scripts": {
     "start": "react-scripts start",

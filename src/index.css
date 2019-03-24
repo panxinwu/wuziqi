@@ -40,14 +40,3 @@ ol, ul {
 .kbd-navigation .step:focus {
   background: #ddd;
 }
-
-.game {
-  display: flex;
-  flex-direction: row;
-}
-.button_bold {
-  font-weight: bold;
-}
-.game-info {
-  margin-left: 20px;
-}
